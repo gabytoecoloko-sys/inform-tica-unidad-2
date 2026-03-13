@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <p>Este es un párrafo con estilo externo.</p>
+    p {
+    color: blue;
+    font-size: 110px;
+    }
+</body>
+</html>
