@@ -4,4 +4,4 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/gabytoecoloko-sys/inform-tica-unidad-2.git
-git push -f origin main     
+git push -f origin main    
